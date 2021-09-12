@@ -1,0 +1,4 @@
+For timer:
+https://github.com/vydimitrov/react-countdown-circle-timer#props-for-both-reactreact-native
+For time duration input:
+https://www.npmjs.com/package/react-duration-picker
