@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.flex > div.timer,
+.flex > p,
+.flex > div.MuiFormControl-root,
+.flex > button {
+  flex-basis: auto;
+}
